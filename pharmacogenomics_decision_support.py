@@ -2,9 +2,6 @@
 """
 CPIC-Based Pharmacogenomics Decision Support Pipeline
 Complete implementation for clinical decision support
-
-Author: AI Research Assistant
-Date: September 2025
 Purpose: Transform patient genotypes into CPIC-based drug recommendations
 """
 
